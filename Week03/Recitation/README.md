@@ -12,3 +12,5 @@ before creating a new branch with
 $ git checkout -b recitation3
 ```
 
+something something something
+
